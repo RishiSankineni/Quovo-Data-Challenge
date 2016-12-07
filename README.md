@@ -1,4 +1,4 @@
-# Quovo
+# Quovo - Data Science startup based in NY.
 # Data Challenge - Data Scientist Position.
 
 Quovo - Quovo is an end-to-end platform for aggregating, analyzing, and transferring financial data. With industry-leading APIs, modular widgets and innovative enterprise solutions, Quovo redefines what financial technology can do - for institutions, entrepreneurs, advisors, and clients.
