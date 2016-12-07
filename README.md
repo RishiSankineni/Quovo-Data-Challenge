@@ -1,13 +1,15 @@
 # Quovo
 # Data Challenge - Data Scientist Position.
 
-Hi
+Quovo - Quovo is an end-to-end platform for aggregating, analyzing, and transferring financial data. With industry-leading APIs, modular widgets and innovative enterprise solutions, Quovo redefines what financial technology can do - for institutions, entrepreneurs, advisors, and clients.
+
+--
 Thank you for taking the time to apply to Quovo. We like to send potential candidates a SHORT coding test/exercise so 
 we could get a sense of how they approach problems. This also gives you the a good opportunity to see if Quovo-style 
 challenges are a good fit for you. Don't go crazy on time, we'd just like to see enough progress on it where we can 
 all have a conversation looking at your code together and talk about how you attacked the problem.
 
-The concept:
+# The concept:
 
 In each row of the included datasets, products X and Y are considered to refer to the same security if 
 they have the same ticker, even if the descriptions don't exactly match. 
