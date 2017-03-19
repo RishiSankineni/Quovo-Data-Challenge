@@ -23,6 +23,6 @@ https://en.wikipedia.org/wiki/Tf–idf
 http://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html
 Good luck!
 
-# My solution-
+# My Approach
 
-Calculated Unigram, Bigram, Trigram. Used XGboost and log-loss to predict the probability instead of 0 or 1 prediction. You can take a look at the Quovo-submiss.ipynb for the code and issimilar_predicted for the output values. 
+Calculated Unigram, Bigram, Trigram. Used XGboost and log-loss to predict the probability instead of 0 or 1 prediction. You can take a look at the Quovo-submiss.ipynb for the code and issimilar_predicted for the output values. Also, you can use this link http://nbviewer.jupyter.org/github/RishiSankineni/Quovo-Data-Challenge/blob/master/Quovo-Submiss.ipynb to share the file. Thanks - Rishi
