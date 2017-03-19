@@ -22,3 +22,7 @@ and see how far you can go with it:
 https://en.wikipedia.org/wiki/Tf–idf
 http://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html
 Good luck!
+
+# My solution-
+
+Calculated Unigram, Bigram, Trigram. Used XGboost and log-loss to predict the probability instead of 0 or 1 prediction. You can take a look at the Quovo-submiss.ipynb for the code and issimilar_predicted for the output values. 
