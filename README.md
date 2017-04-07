@@ -27,4 +27,4 @@ Good luck!
 
 Calculated Unigram, Bigram, Trigram. Used XGboost and log-loss to predict the probability instead of 0 or 1 prediction. You can take a look at the Quovo-submiss.ipynb for the code and issimilar_predicted for the output values. Also, you can use this link http://nbviewer.jupyter.org/github/RishiSankineni/Quovo-Data-Challenge/blob/master/Quovo-Submiss.ipynb to share the file. Thanks - Rishi
 
-log loss- ~70%(not bad when you're a text mining newbie). Nevertheless,will try to improve it by approaching the problem in a different way.
+log loss- 0.56 (not bad). Nevertheless, will try to improve it by approaching the problem in a different way.
